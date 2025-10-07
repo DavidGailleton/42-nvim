@@ -9,7 +9,7 @@ Heavily based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) an
 
 Once you forked this repo, simply execute the following and follow the steps!:
 ```shell
-curl -fsSL https://raw.githubusercontent.com/fclivaz42/42-nvim/refs/heads/main/install.sh -o installer.sh && bash installer.sh install
+curl -fsSL https://raw.githubusercontent.com/DavidGailleton/42-nvim/refs/heads/main/install.sh -o installer.sh && bash installer.sh install
 ```
 
 This will prompt you to clone your fork and adjust a few settings (eg. `user42`, `mail42`, allow you to turn on the built-in norminette and install the recommended `clangd` flags) as well as check if the recommended dependencies are installed.
